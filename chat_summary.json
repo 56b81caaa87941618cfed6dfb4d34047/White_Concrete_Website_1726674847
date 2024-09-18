@@ -1,5 +1,29 @@
 [
     {
+        "role": "chat_ui_checklist",
+        "content": "{\"status\": \"success\", \"ui_elements_checklist\": [{\"feature\": \"Add a gradient background option for more visual appeal\", \"checked\": false}, {\"feature\": \"Implement an interactive color picker for dynamic background changes\", \"checked\": false}, {\"feature\": \"Include a color theory section explaining the use of colors in design\", \"checked\": true}, {\"feature\": \"Enhance header with customizable fonts and styles\", \"checked\": true}, {\"feature\": \"Add a sticky header feature for better navigation\", \"checked\": false}], \"input_token_count\": 296, \"output_token_count\": 107, \"time_taken\": \"0:00:01.812733\"}",
+        "message_id": "guest18092024155754",
+        "timestamp": "18092024155804",
+        "component_file_name": "simple_cta_component_1726674850",
+        "div_id": "",
+        "div_action": ""
+    },
+    {
+        "role": "summary",
+        "content": "In the conversation, the User requested the AI to make a header more catchy. The AI acknowledged this request and confirmed it would work on improving the header. Additionally, the AI asked the User for more detailed information about the project to better understand how to enhance the header.",
+        "timestamp": "18092024155804",
+        "message_id": "guest18092024155754"
+    },
+    {
+        "role": "chat_qna",
+        "content": "{\"status\": \"success\", \"qna\": [{\"question 1\": \"What shade of brown are you considering for the background color?\", \"option1\": \"Light brown\", \"option2\": \"Dark brown\"}, {\"question 2\": \"Would you like the brown background to have any specific texture or pattern?\", \"option1\": \"Solid color\", \"option2\": \"Textured or patterned\"}], \"input_token_count\": 342, \"output_token_count\": 80, \"time_taken\": \"0:00:01.353433\"}",
+        "message_id": "guest18092024155754",
+        "timestamp": "18092024155800",
+        "component_file_name": "simple_cta_component_1726674850",
+        "div_id": "",
+        "div_action": ""
+    },
+    {
         "role": "chat_acknowledge",
         "content": "Sure, I'll change the background color to brown.",
         "message_id": "guest18092024155754",
@@ -7,12 +31,6 @@
         "component_file_name": "",
         "div_id": "",
         "div_action": ""
-    },
-    {
-        "role": "summary",
-        "content": "Can you describe the project a bit more?",
-        "timestamp": "18092024155755",
-        "message_id": "guest18092024155754"
     },
     {
         "role": "user",
@@ -74,24 +92,6 @@
         "message_id": "guest18092024155601",
         "timestamp": "18092024155607",
         "component_file_name": "simple_cta_component_1726674850",
-        "div_id": "",
-        "div_action": ""
-    },
-    {
-        "role": "user",
-        "content": "Please make the header more catchy",
-        "message_id": "guest18092024155601",
-        "timestamp": "18092024155602",
-        "component_file_name": "simple_cta_component_1726674850",
-        "div_id": "",
-        "div_action": ""
-    },
-    {
-        "role": "chat_acknowledge",
-        "content": "Okay, I'll work on making the header more catchy.",
-        "message_id": "guest18092024155601",
-        "timestamp": "18092024155602",
-        "component_file_name": "",
         "div_id": "",
         "div_action": ""
     }
