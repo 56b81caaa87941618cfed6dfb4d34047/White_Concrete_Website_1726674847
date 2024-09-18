@@ -1,5 +1,14 @@
 [
     {
+        "role": "chat_qna",
+        "content": "{\"status\": \"success\", \"qna\": [{\"question 1\": \"What shade of white are you envisioning for the background?\", \"option1\": \"Pure white\", \"option2\": \"Off-white or cream\"}, {\"question 2\": \"Would you like any other design elements to complement the white background?\", \"option1\": \"Yes, add a texture or pattern\", \"option2\": \"No, keep it simple and clean\"}], \"input_token_count\": 471, \"output_token_count\": 90, \"time_taken\": \"0:00:01.807393\"}",
+        "message_id": "guest18092024160757",
+        "timestamp": "18092024160804",
+        "component_file_name": "simple_cta_component_1726674850",
+        "div_id": "",
+        "div_action": ""
+    },
+    {
         "role": "chat_acknowledge",
         "content": "Sure, I'm updating the background to white now.",
         "message_id": "guest18092024160757",
