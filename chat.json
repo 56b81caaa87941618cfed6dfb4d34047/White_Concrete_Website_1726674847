@@ -1,5 +1,14 @@
 [
     {
+        "role": "chat_qna",
+        "content": "{\"status\": \"success\", \"qna\": [{\"question 1\": \"What shade of tan are you envisioning for the background color?\", \"option1\": \"Light tan\", \"option2\": \"Dark tan\"}, {\"question 2\": \"Would you like the tan background to apply to the entire website or just specific sections?\", \"option1\": \"Entire website\", \"option2\": \"Specific sections only\"}], \"input_token_count\": 377, \"output_token_count\": 83, \"time_taken\": \"0:00:01.683492\"}",
+        "message_id": "guest18092024155822",
+        "timestamp": "18092024155828",
+        "component_file_name": "simple_cta_component_1726674850",
+        "div_id": "",
+        "div_action": ""
+    },
+    {
         "role": "user",
         "content": "change the background color to tan",
         "message_id": "guest18092024155822",
