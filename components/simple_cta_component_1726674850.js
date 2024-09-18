@@ -2,7 +2,7 @@
 INSTRUCTION: Summary: This component contains a h2 heading title for the CTA, a line of text under it, and a button underneath it. They are all centre aligned.
 -->
 <template>
-    <section id="cta-component" class="bg-red-500 dark:bg-red-700 flex-1"><div id="cta-inner-container" class="max-w-screen-xl px-4 py-8 mx-auto lg:py-16 lg:px-6" style=""><div id="cta-content" class="max-w-screen-sm mx-auto text-center"><div id="cta-title-container" class="flex"><h2 id="cta-title" class="flex-1 mb-4 text-4xl font-extrabold leading-tight tracking-tight text-gray-900 dark:text-white bg-clip-text text-transparent bg-gradient-to-r from-purple-600 to-pink-500">
+    <section id="cta-component" class="bg-red-500 dark:bg-red-700 flex-1"><div id="cta-inner-container" class="max-w-screen-xl px-4 py-8 mx-auto lg:py-16 lg:px-6" style=""><div id="cta-content" class="max-w-screen-sm mx-auto text-center"><div id="cta-title-container" class="flex"><h2 id="cta-title" class="flex-1 mb-4 text-4xl font-extrabold leading-tight tracking-tight text-gray-900 dark:text-white bg-clip-text text-transparent bg-gradient-to-r from-purple-600 to-pink-500" style="">
                         Elevate Your Space with White Concrete Magic!
                     </h2></div> <div id="cta-subtitle-container" class="flex"><p id="cta-subtitle" class="flex-1 mb-6 font-light text-gray-600 dark:text-gray-300 md:text-lg">
                         Unleash the power of elegance and innovation with our stunning white concrete solutions
