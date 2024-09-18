@@ -1,5 +1,14 @@
 [
     {
+        "role": "chat_qna",
+        "content": "{\"status\": \"success\", \"qna\": [{\"question 1\": \"What shade of brown are you considering for the background color?\", \"option1\": \"Light brown\", \"option2\": \"Dark brown\"}, {\"question 2\": \"Would you like the brown background to have any specific texture or pattern?\", \"option1\": \"Solid color\", \"option2\": \"Textured or patterned\"}], \"input_token_count\": 342, \"output_token_count\": 80, \"time_taken\": \"0:00:01.353433\"}",
+        "message_id": "guest18092024155754",
+        "timestamp": "18092024155800",
+        "component_file_name": "simple_cta_component_1726674850",
+        "div_id": "",
+        "div_action": ""
+    },
+    {
         "role": "chat_acknowledge",
         "content": "Sure, I'll change the background color to brown.",
         "message_id": "guest18092024155754",
