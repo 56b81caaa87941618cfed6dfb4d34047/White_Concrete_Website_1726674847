@@ -1,5 +1,14 @@
 [
     {
+        "role": "chat_ui_checklist",
+        "content": "{\"status\": \"success\", \"ui_elements_checklist\": [{\"feature\": \"Add a dynamic tagline under the header\", \"checked\": true}, {\"feature\": \"Incorporate a background image or texture\", \"checked\": false}, {\"feature\": \"Use animated text effects for the header\", \"checked\": false}, {\"feature\": \"Include a call-to-action button in the header\", \"checked\": false}, {\"feature\": \"Implement a sticky header that remains visible while scrolling\", \"checked\": true}], \"input_token_count\": 243, \"output_token_count\": 101, \"time_taken\": \"0:00:03.406267\"}",
+        "message_id": "guest18092024155601",
+        "timestamp": "18092024155613",
+        "component_file_name": "simple_cta_component_1726674850",
+        "div_id": "",
+        "div_action": ""
+    },
+    {
         "role": "chat_qna",
         "content": "{\"status\": \"success\", \"qna\": [{\"question 1\": \"What specific elements would you like to include in the header to make it more catchy?\", \"option1\": \"Add a tagline or slogan\", \"option2\": \"Use a different font or color scheme\"}, {\"question 2\": \"Do you have any examples of catchy headers that you like?\", \"option1\": \"Yes, I have some examples\", \"option2\": \"No, I need inspiration\"}], \"input_token_count\": 289, \"output_token_count\": 96, \"time_taken\": \"0:00:01.435370\"}",
         "message_id": "guest18092024155601",
