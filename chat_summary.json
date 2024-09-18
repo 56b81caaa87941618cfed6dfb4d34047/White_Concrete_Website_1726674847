@@ -1,5 +1,56 @@
 [
     {
+        "role": "chat_acknowledge",
+        "content": "Sure, I'm updating the background to white now.",
+        "message_id": "guest18092024160757",
+        "timestamp": "18092024160758",
+        "component_file_name": "",
+        "div_id": "",
+        "div_action": ""
+    },
+    {
+        "role": "summary",
+        "content": "The user initiated a conversation with the AI assistant, requesting a change of the background color to brown, which the AI acknowledged it would proceed with. The AI then presented the user with a list of additional features to consider, which included options for a gradient background, an interactive color picker, and enhancements for the header, among others. Subsequently, the user requested a color change to red, and the AI confirmed that it was working on this adjustment. Again, the AI offered additional feature options related to the red background and sought the user's input on shade preference and texture. The user then prompted the assistant to make the header more catchy, to which the AI agreed to work on this aspect. The assistant further inquired about specific elements the user envisioned for the header and requested a description of the project to better assist. Throughout the interaction, the assistant provided multiple sets of questions, each followed by two options for the user to choose from, aimed at refining the project's design elements.",
+        "timestamp": "18092024160758",
+        "message_id": "guest18092024160757"
+    },
+    {
+        "role": "user",
+        "content": "Change the background to white",
+        "message_id": "guest18092024160757",
+        "timestamp": "18092024160757",
+        "component_file_name": "simple_cta_component_1726674850",
+        "div_id": "",
+        "div_action": ""
+    },
+    {
+        "role": "chat_ui_checklist",
+        "content": "{\"status\": \"success\", \"ui_elements_checklist\": [{\"feature\": \"Change the background color to dark burnt orange\", \"checked\": true}, {\"feature\": \"Add a gradient overlay for visual depth\", \"checked\": false}, {\"feature\": \"Incorporate a hover effect for buttons\", \"checked\": false}, {\"feature\": \"Include a footer with social media links\", \"checked\": true}, {\"feature\": \"Implement a responsive design for mobile devices\", \"checked\": true}], \"input_token_count\": 429, \"output_token_count\": 98, \"time_taken\": \"0:00:01.388755\"}",
+        "message_id": "guest18092024155900",
+        "timestamp": "18092024155912",
+        "component_file_name": "simple_cta_component_1726674850",
+        "div_id": "",
+        "div_action": ""
+    },
+    {
+        "role": "chat_qna",
+        "content": "{\"status\": \"success\", \"qna\": [{\"question 1\": \"What shade of dark burnt orange are you envisioning for the background color?\", \"option1\": \"A vibrant and bright shade\", \"option2\": \"A muted and earthy tone\"}, {\"question 2\": \"Would you like any specific textures or patterns to be incorporated into the dark burnt orange background?\", \"option1\": \"Yes, I want a subtle texture\", \"option2\": \"No, I prefer a solid color without textures\"}], \"input_token_count\": 475, \"output_token_count\": 104, \"time_taken\": \"0:00:01.416864\"}",
+        "message_id": "guest18092024155900",
+        "timestamp": "18092024155908",
+        "component_file_name": "simple_cta_component_1726674850",
+        "div_id": "",
+        "div_action": ""
+    },
+    {
+        "role": "chat_acknowledge",
+        "content": "Okay, I'll change the background color to dark burnt orange.",
+        "message_id": "guest18092024155900",
+        "timestamp": "18092024155901",
+        "component_file_name": "",
+        "div_id": "",
+        "div_action": ""
+    },
+    {
         "role": "user",
         "content": "change the background color to a dark burnt orange",
         "message_id": "guest18092024155900",
@@ -7,12 +58,6 @@
         "component_file_name": "simple_cta_component_1726674850",
         "div_id": "",
         "div_action": ""
-    },
-    {
-        "role": "summary",
-        "content": "The user initiated a conversation with the AI assistant by requesting to change the background color to red. The AI acknowledged this request, indicating it was working on the change. The user was then presented with two options regarding the shade of red desired for the background color, as well as whether they wanted additional elements or textures. The AI also provided a checklist of additional features, noting which were selected, including a dynamic tagline under the header and a sticky header that remains visible while scrolling. The user expressed the desire to make the header more catchy, to which the AI responded that it would work on that as well. Furthermore, the AI asked the user for a more detailed description of the project.",
-        "timestamp": "18092024155900",
-        "message_id": "guest18092024155900"
     },
     {
         "role": "chat_ui_checklist",
@@ -47,51 +92,6 @@
         "message_id": "guest18092024155822",
         "timestamp": "18092024155822",
         "component_file_name": "",
-        "div_id": "",
-        "div_action": ""
-    },
-    {
-        "role": "chat_ui_checklist",
-        "content": "{\"status\": \"success\", \"ui_elements_checklist\": [{\"feature\": \"Add a gradient background option for more visual appeal\", \"checked\": false}, {\"feature\": \"Implement an interactive color picker for dynamic background changes\", \"checked\": false}, {\"feature\": \"Include a color theory section explaining the use of colors in design\", \"checked\": true}, {\"feature\": \"Enhance header with customizable fonts and styles\", \"checked\": true}, {\"feature\": \"Add a sticky header feature for better navigation\", \"checked\": false}], \"input_token_count\": 296, \"output_token_count\": 107, \"time_taken\": \"0:00:01.812733\"}",
-        "message_id": "guest18092024155754",
-        "timestamp": "18092024155804",
-        "component_file_name": "simple_cta_component_1726674850",
-        "div_id": "",
-        "div_action": ""
-    },
-    {
-        "role": "chat_qna",
-        "content": "{\"status\": \"success\", \"qna\": [{\"question 1\": \"What shade of brown are you considering for the background color?\", \"option1\": \"Light brown\", \"option2\": \"Dark brown\"}, {\"question 2\": \"Would you like the brown background to have any specific texture or pattern?\", \"option1\": \"Solid color\", \"option2\": \"Textured or patterned\"}], \"input_token_count\": 342, \"output_token_count\": 80, \"time_taken\": \"0:00:01.353433\"}",
-        "message_id": "guest18092024155754",
-        "timestamp": "18092024155800",
-        "component_file_name": "simple_cta_component_1726674850",
-        "div_id": "",
-        "div_action": ""
-    },
-    {
-        "role": "chat_acknowledge",
-        "content": "Sure, I'll change the background color to brown.",
-        "message_id": "guest18092024155754",
-        "timestamp": "18092024155755",
-        "component_file_name": "",
-        "div_id": "",
-        "div_action": ""
-    },
-    {
-        "role": "user",
-        "content": "Change the background color to brown",
-        "message_id": "guest18092024155754",
-        "timestamp": "18092024155754",
-        "component_file_name": "simple_cta_component_1726674850",
-        "div_id": "",
-        "div_action": ""
-    },
-    {
-        "role": "chat_ui_checklist",
-        "content": "{\"status\": \"success\", \"ui_elements_checklist\": [{\"feature\": \"Change background color to red\", \"checked\": true}, {\"feature\": \"Add a gradient overlay on the background\", \"checked\": false}, {\"feature\": \"Incorporate an interactive color picker\", \"checked\": false}, {\"feature\": \"Add texture patterns to the background\", \"checked\": false}, {\"feature\": \"Implement a dynamic background that changes on scroll\", \"checked\": false}], \"input_token_count\": 265, \"output_token_count\": 94, \"time_taken\": \"0:00:01.813934\"}",
-        "message_id": "guest18092024155733",
-        "timestamp": "18092024155744",
-        "component_file_name": "simple_cta_component_1726674850",
         "div_id": "",
         "div_action": ""
     }
