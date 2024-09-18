@@ -10,5 +10,9 @@
     {
         "level": 1,
         "task_description": "This is the user's previous chat history with this AI:\nCan you describe the project a bit more?\nUser: Change the background color to brown\nUser: Change the background color to red\nAI: Okay, working on changing the background color to red.\nUser: Please make the header more catchy\nAI: Okay, I'll work on making the header more catchy.\n\nThis is the user's current request of changes to be made:\nChange the background color to brown"
+    },
+    {
+        "level": 1,
+        "task_description": "This is the user's previous chat history with this AI:\nIn the conversation, the User requested the AI to make a header more catchy. The AI acknowledged this request and confirmed it would work on improving the header. Additionally, the AI asked the User for more detailed information about the project to better understand how to enhance the header.\nAI: Sure, I'll change the background color to brown.\nUser: Change the background color to brown\nUser: Change the background color to red\nAI: Okay, working on changing the background color to red.\n\nThis is the user's current request of changes to be made:\nchange the background color to tan"
     }
 ]
