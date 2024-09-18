@@ -1,5 +1,11 @@
 [
     {
+        "role": "chat_qna",
+        "content": "{\"status\": \"success\", \"qna\": [{\"question 1\": \"What shade of red do you want for the background color?\", \"option1\": \"Light red\", \"option2\": \"Dark red\"}, {\"question 2\": \"Would you like any additional elements or textures to complement the red background?\", \"option1\": \"Yes, add textures\", \"option2\": \"No, keep it simple\"}], \"input_token_count\": 311, \"output_token_count\": 84, \"time_taken\": \"0:00:01.649375\"}",
+        "timestamp": "18092024155740",
+        "message_id": "guest18092024155733"
+    },
+    {
         "role": "user",
         "content": "Change the background color to red",
         "timestamp": "18092024155734",
