@@ -1,5 +1,14 @@
 [
     {
+        "role": "chat_qna",
+        "content": "{\"status\": \"success\", \"qna\": [{\"question 1\": \"What shade of dark burnt orange are you envisioning for the background color?\", \"option1\": \"A vibrant and bright shade\", \"option2\": \"A muted and earthy tone\"}, {\"question 2\": \"Would you like any specific textures or patterns to be incorporated into the dark burnt orange background?\", \"option1\": \"Yes, I want a subtle texture\", \"option2\": \"No, I prefer a solid color without textures\"}], \"input_token_count\": 475, \"output_token_count\": 104, \"time_taken\": \"0:00:01.416864\"}",
+        "message_id": "guest18092024155900",
+        "timestamp": "18092024155908",
+        "component_file_name": "simple_cta_component_1726674850",
+        "div_id": "",
+        "div_action": ""
+    },
+    {
         "role": "chat_acknowledge",
         "content": "Okay, I'll change the background color to dark burnt orange.",
         "message_id": "guest18092024155900",
